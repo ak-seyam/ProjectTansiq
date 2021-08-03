@@ -1,0 +1,15 @@
+[submodule "TansiqServiceRegistry"]
+	path = TansiqServiceRegistry
+	url = git@github.com:A-Siam/TansiqServiceRegistry.git
+[submodule "TansiqApiGateway"]
+	path = TansiqApiGateway
+	url = git@github.com:A-Siam/TansiqApiGateway.git
+[submodule "TansiqCore"]
+	path = TansiqCore
+	url = git@github.com:A-Siam/TansiqCore.git
+[submodule "TansiqUi"]
+	path = TansiqUi
+	url = git@github.com:A-Siam/TansiqUi.git
+[submodule "TansiqExcelUpload"]
+	path = TansiqExcelUpload
+	url = git@github.com:A-Siam/TansiqExcelUpload.git
